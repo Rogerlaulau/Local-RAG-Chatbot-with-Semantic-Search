@@ -74,7 +74,8 @@ python3 rag_chat.py
 .
 ├── ingest_documents.py     # Handles .txt, .pdf, .html parsing and embed documents into ChromaDB
 ├── rag_chat.py             # Top-K vector search
-├── requirements.txt
+├── context                 # Input documents
+├── requirements.txt        # Required packages
 └── .env                    # API keys and configs
 ```
 
@@ -120,7 +121,7 @@ This project is for educational and prototyping purposes. API keys are required 
 
 ## 🧑‍💻 Author
 
-**\[Your Name]** – Roger L.
+**Roger L.** – 
 Passionate about AI, LLM integration, and building impactful developer tools.
 
 ---
@@ -128,6 +129,3 @@ Passionate about AI, LLM integration, and building impactful developer tools.
 ## 📄 License
 
 MIT License. See `LICENSE` file for details.
-
-```
-
