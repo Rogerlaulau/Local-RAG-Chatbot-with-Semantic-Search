@@ -1,0 +1,36 @@
+Business Insider
+
+Tesla tells staff it plans to roll out its Robotaxi service in San Francisco this weekend
+By Grace Kay
+
+
+Tesla launched its robotaxi in Austin last month. AP Photo/Eric Gay
+Jul 25, 2025, 7:32 AM ET
+
+Tesla told some workers it plans to launch its Robotaxi service in the Bay Area this weekend.
+Robotaxis will have a safety monitor in the driver's seat with full access to the brake and steering wheel.
+The California DMV said Tesla has not secured a permit for driverless testing.
+Tesla told staff on Thursday it plans to launch its Robotaxi service in San Francisco this weekend, according to an internal memo viewed by Business Insider.
+The company said its timeline for the launch had been moved up and the service could launch as soon as Friday. Some Tesla owners will be sent an invite to use the service, the memo said, and users will pay for Robotaxi rides.
+The geofenced area where Robotaxi service will operate covers a large swath of the Bay Area, including Marin, much of the East Bay, San Francisco, and stretching south to San Jose, according to the memo. The program will launch with safety drivers in the driver's seat who will be able to control the car using the steering wheel and brakes, it said.
+A spokesperson for the California DMV said the agency recently met with Tesla, but the company has yet to apply for a permit for driverless testing or deployment. The agency did not respond to questions regarding whether Tesla would be required to have a permit to launch its commercial robotaxi service with a safety monitor in the driver's seat.
+Tesla currently has a permit for testing its self-driving software in California with a driver behind the wheel, according to the California DMV's website. Business Insider previously reported that Tesla had scaled up its autonomous testing capabilities in California under the permit, more than tripling the number of workers testing in the state. In December, the electric-car maker registered 224 in-house test drivers and 104 vehicles in the state for an autonomous testing permit, according to public records viewed by Business Insider.
+The California Public Utilities Commission told BI after this story first published that Tesla notified the agency on Thursday that it intended to "extend operations under its TCP permit to offer service to friends and family of employees and to select members of the public." The CPUC granted Tesla a transportation charter permit in March that allows the company to provide a transportation service for employees. 
+
+The agency said Tesla has not applied for any permits that would allow it to provide a commercial service to the public using an autonomous vehicle, but it can transport members of the public in a "non-AV" vehicle with a driver as a paid or unpaid service.
+Elon Musk said during Tesla's quarterly earnings call on Wednesday that its Robotaxis will operate with a safety operator in the front seat during the initial deployment in the Bay Area. In Austin, where Tesla launched its Robotaxi service last month, the carmaker currently has safety monitors that sit in the passenger seat of the vehicle and remote operators that can intervene if the vehicle goes off course.
+Tesla did not respond to a request for comment sent outside normal working hours.
+Tesla's second-quarter earnings showed its sharpest drop in revenue in a decade, and sent the stock down over 8% in trading on Thursday.
+Tesla started its Robotaxi launch in Austin with just over 10 vehicles in a geofenced area that the company has since expanded. The service is currently invite-only.
+In preparation for the Robotaxi launch, Tesla built modified Model Ys at its factory in Austin, BI previously reported. The vehicles were fitted with slightly different parts than a traditional Model Y, including additional camera equipment and a second telecommunications unit.
+
+I tried Tesla's new self-driving taxi
+1:29
+Earlier this month, Musk said on X that the company would launch the service in the Bay Area within one to two months.
+Musk said during Wednesday's earnings call that Tesla was in the process of getting regulatory approval in California.
+Musk has said the company plans to expand its service globally, but for now, it is also seeking approval in Florida and Arizona.
+Earlier this month, Tesla shared a video showing its first fully autonomous delivery: a Tesla Model Y driving itself from the Austin factory to a customer's house. Tesla's AI Director, Ashok Elluswamy, said on X that the car reached speeds of 72 miles per hour at one point.
+
+July 25, 2025, 3:45 pm ET: This story has been updated with comment from the California Public Utilities Commission that Tesla informed them of plans to expand operations in California.
+Do you work for Tesla or have a tip? Contact this reporter via email at gkay@businessinsider.com or Signal at 248-894-6012. Use a personal email address, a nonwork device, and nonwork WiFi; here's our guide to sharing information securely.
+
