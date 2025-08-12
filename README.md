@@ -66,6 +66,10 @@ CHROMA_DB_PATH=./chroma_db
 python3 ingest_documents.py ./context/sample.pdf
 python3 rag_chat.py
 ```
+OR
+```
+streamlit run streamlit_app.py
+```
 ---
 
 ## 📂 Project Structure
@@ -74,6 +78,7 @@ python3 rag_chat.py
 .
 ├── ingest_documents.py     # Handles .txt, .pdf, .html parsing and embed documents into ChromaDB
 ├── rag_chat.py             # Top-K vector search
+├── streamlit_app.py        # Web UI for interaction
 ├── context                 # Input documents
 ├── requirements.txt        # Required packages
 └── .env                    # API keys and configs
